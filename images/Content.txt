@@ -1,0 +1,34 @@
+Home Page
+The following mandatory text should be given to the candidate for the Home
+page.
+Welcome to the Active Leisure Complex website. In this site you will find
+details of our community history, services we provide and contact details for
+those who would like up to date news from our monthly newsletter.
+Please feel free to look around and if you like what you see pass our link onto
+your friends!
+
+History
+The following mandatory text should be given to the candidate for the history
+page.
+The Active Leisure Complex was built in 2005 so is a relatively new complex
+with up to date state of the art facilities. It was opened in June 2005 by the
+Mayor of Berwick, John Sunderland and provides a centre piece for the
+community.
+The ground on which it was built previously housed the Franklin Monastery
+which was demolished in 1998 after years of lying in a state of disrepair. A
+plaque outside the leisure complex marks the spot where the monastery once
+stood.
+
+Services
+
+Information in this page is to be created by the candidate and should include
+details of a range of activities for the defined target audience.
+
+4 Contact
+Information on this page is to be created by the candidate and should include a
+simple form with a mailto action. The form should take as input the name,
+email address and query of the user. There should be an option to sign up for
+the monthly newsletter. There should be clear steps on this page to indicate
+how to fill in and send the form.
+
+Active Leisure Complex, Hilltop Road, Berwick, 09876 234 234
